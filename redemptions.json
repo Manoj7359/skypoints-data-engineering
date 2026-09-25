@@ -1,0 +1,17 @@
+[
+  {
+    "member_id": "1",
+    "feed_date": "20220901",
+    "redemptions": [
+      {"txn_id": "RX10091", "txn_date": "20220820", "partner": "AeroLink", "miles_redeemed": 12000, "status": "COMPLETED"},
+      {"txn_id": "RX10092", "txn_date": "20220825", "partner": "SkyPoints", "miles_redeemed": 5000, "status": "PENDING"}
+    ]
+  },
+  {
+    "member_id": "2",
+    "feed_date": "20220901",
+    "redemptions": [
+      {"txn_id": "RX10093", "txn_date": "20220826", "partner": "AeroLink", "miles_redeemed": 2500, "status": "COMPLETED"}
+    ]
+  }
+]
